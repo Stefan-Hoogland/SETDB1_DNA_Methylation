@@ -1,1 +1,8 @@
 # SETDB1_DNA_Methylation
+
+**Abstract**
+Embryonic development goes in harmony with epigenetic regulation. Many factors silence or activate the genome to allow proper development. Histone H3 lysine 9 (H3K9) methyltransferase SETDB1 is essential for pluripotency and inner cell mass identity by preventing trophectoderm differentiation within the blastocyst. In addition, SETDB1 silences retrotransposons by placing H3K9me3 marks. Remarkably, these SETDB1 dependent H3K9me3 marked regions remain methylated during genome wide epigenetic reprogramming. However, the exact interplay between SETDB1 and DNA methylation remains unclear. This study provides a high resolution time course analysis on the methylome of ESCs after SETDB1 KO. Utilizing this data we aim to elucidate the dynamics between SETDB1 and DNA methylation and dissect primary and secondary targets. We find drastic demethylation of ERVK type retrotransposons such as RLTR10C, ETnERV-int, and MMetn-int correlating with H3K9me3 loss. Surprisingly, we do not find demethylation of retrotransposons in 2i cultured ESCs indicating alternative pathways within this condition. Asides this, we elucidate other dynamics such as genome wide de novo methylation, drastic de novo methylation on pluripotency genes Esrrb and Nanog; and demethylation of specific imprinted genes. Combined, the results elucidate the interplay between SETDB1 and DNA methylation during embryonic development.
+
+**Notes**
+
+All code is written in R. The section script are executable command line programs used for the analysis within this paper. Other section contains various code files including the rmarkdown logbook of all code used in this project.
